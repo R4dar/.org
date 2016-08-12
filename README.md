@@ -1,4 +1,4 @@
-# ProjetoAurora
+# Ping
 Integração de versões customizadas do Telegram (android, iOS e web) à Rede Livre (logincidadão + wordpress).
 
 
